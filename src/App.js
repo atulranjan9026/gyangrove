@@ -6,7 +6,7 @@ import InventoryCards from "./components/InventoryCards";
 import EditItemModal from "./components/EditItemModal"; 
 import './App.css'; 
 
-const InventoryApp = () => {
+const App = () => {
   const [items, setItems] = useState([
     { id: 1, name: "Apple", category: "Fruits", quantity: 5 },
     { id: 2, name: "Carrot", category: "Vegetables", quantity: 15 },
@@ -110,4 +110,4 @@ const InventoryApp = () => {
   );
 };
 
-export default InventoryApp;
+export default App;

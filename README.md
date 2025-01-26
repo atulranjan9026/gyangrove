@@ -48,7 +48,7 @@ inventory-management-app/
 │   │   ├── InventoryTable.js
 │   │   └── ...
 │   ├── App.css
-│   ├── InventoryApp.js
+│   ├── App.js
 │   ├── index.js
 │   └── ...
 ├── package.json
